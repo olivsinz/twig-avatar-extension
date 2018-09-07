@@ -25,4 +25,4 @@ Use the ``avatar`` function to generate user avatar.
 
 This example would output avatar with two initials letter like ``JD``, as ``John Doe`` is the providen user name.
 
-[[https://cloud.githubusercontent.com/assets/618412/12192012/835c7488-b60d-11e5-9276-d06f42d11a86.png|alt=Avatar]]
+![alt Avatar examples](https://cloud.githubusercontent.com/assets/618412/12192012/835c7488-b60d-11e5-9276-d06f42d11a86.png)
