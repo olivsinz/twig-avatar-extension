@@ -24,7 +24,7 @@ class AvatarExtension extends AbstractExtension
         ];
     }
 
-    // Square Shape, Size 64px
+    // Circle Shape, Size 64px, Shape's value can be circle or square
     public function generateAvatar($userCompleteName, $shape = 'circle', $size)
     {
         return new LetterAvatar($userCompleteName, $shape, $size);
