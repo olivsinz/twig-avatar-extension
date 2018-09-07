@@ -1,0 +1,24 @@
+{
+    "name": "olivers/twig-avatar-extension",
+    "keywords": ["twig", "avatar", "extension", "initials-letter"],
+    "description": "This Twig extension generates user avatar using name initials letter inside Twig templates",
+    "homepage": "https://github.com/0l1v3r5/twig-avatar-extension",
+    "type": "library",
+    "require": {
+        "php": ">=7.0",
+        "twig/twig": ">=2.4",
+        "yohang88/letter-avatar" : ">=2.0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OLIVERS"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "olivers\\Twig\\Extension\\": "src/"
+        }
+    }
+}
